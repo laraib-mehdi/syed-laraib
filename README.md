@@ -1,5 +1,5 @@
 # Hello🥷🏽
- <br>I’m Laraib, a learning enthusiast like you. 🧠<br>I want to learn new technologies and use them to solve real-life problems ✨<br>Currently I'm passionate to learn all about Neural Networks. 🧬<br>Love it when coders share knowledge with me! 👐🏽 | Music and Memes keep me from burnouts🗿<br>
+ <br>I’m Laraib, a learning enthusiast like you. 🧠<br>I want to learn new technologies and use them to solve real-life problems ✨<br>I'm passionate about working on AI. 🧬<br>Love it when geeks share knowledge with me! 👐🏽 | Music and Memes keep me from burnouts🗿<br>
 
 # Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
