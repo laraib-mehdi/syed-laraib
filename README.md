@@ -1,4 +1,5 @@
-# Hello🥷🏽
+<img src="cc.gif" alt="Welcome" width="600" height="200" >
+
 #### - I’m Laraib, a learning enthusiast like you 🤝🧠
 #### - I'm passionate about exploring and using new technologies 🧬
 #### - I love to exchange knowledge on common ground! 👐🏽 
