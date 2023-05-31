@@ -1,4 +1,4 @@
-<img src="cc.gif" alt="Welcome" width="600" height="200" >
+<img src="cc.gif" alt="Welcome" width="900" height="350" >
 
 #### - I’m Laraib, a learning enthusiast like you 🤝🧠
 #### - I'm passionate about exploring and using new technologies 🧬
