@@ -1,4 +1,4 @@
-<img src="cc.gif" alt="Welcome" width="520" height="200" >
+<img src="cc.gif" alt="Welcome" width="420" height="170" >
 
 #### - I'm a learning enthusiast like you 🤝🧠
 #### - I feel passionate about exploring and using new technologies 🧬
